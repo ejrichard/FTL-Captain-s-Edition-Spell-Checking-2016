@@ -257,24 +257,24 @@
 	<text>TIP: Exotic Ships - Some enemy ships are specialized in unique ways and might be equipped with distinct armaments or equipment. Try to discover their capabilities and weaknesses to deal with them effectively. You can always flee from an encounter if you are not sure what you are dealing with.</text>
 	<text>TIP: Anti-Hull Weapons - Some weapons and drones deal extra damage when fired at empty rooms. While they perform poorly against small ships, they can come in handy against enemies with a lot of hullpoints and empty rooms, like space stations and cruisers.</text>
 	<text>TIP: Capital Ships - Your cruiser is not designed to fight every type of ship. If you feel that your enemy outright outclasses you, then trying to flee might be your best bet.</text>
-	<text>TIP: Rebel Cruisers - When the fleet catches up with you, you might have to fight strong Rebel elite cruisers and the Rebels will also station these ships at exit beacons.</text>
+	<text>TIP: Rebel Cruisers - When the fleet catches up with you, you might have to fight strong Rebel elite cruisers. Rebels will also station these ships at exit beacons.</text>
 	<text>TIP: Fighting Rebel Cruisers - Taking out Rebel cruisers can throw the fleet into disarray and buy you some time, but fleeing from these powerful ships might often be the better option.</text>
 	<text>TIP: Tech Missile Launchers - Some missile weapons can scramble enemy defense systems and will only be shot down by level 2 defense drones.</text>
 	<text>TIP: Trade Routes - Trading is most lucrative between civilian (green) and hostile (red) sectors. Check the sector map and plan your route through the sectors accordingly to increase your profits.</text>
-	<text>TIP: Goods Value - Trade goods come at different scarcities, which range from basic to rare. This puts them into different price ranges. Buying more expansive goods requires greater investments, but also nets bigger profits with one haul.</text>
+	<text>TIP: Goods Value - Trade goods come at different scarcities, which range from basic to rare. This puts them into different price ranges. Buying more expensive goods requires greater investments, but also nets bigger profits with one haul.</text>
 	<text>TIP: Cargo Space - Trade goods take up Augmentation slots. Make sure you have enough cargo space when buying commodities. If you realize that your holds are already full then you can still sell the goods at the shop again, but you will loose some scrap this way.</text>
 	<text>TIP: Selling Goods - When you sell your cargo at shops, you will first negotiate a price and get an advance payment. Then you have to sell the goods at the shop to receive the rest of your scrap. [Not doing this means you are cheating.]</text>
 	<text>TIP: Supply and Demand - Trade goods are never bought at good prices in the sectors where they are for sale. You can still sell the commodities at the shop to free up cargo space and make quick scrap, but delivering them to other sectors makes better money.</text>
-	<text>TIP: Trading Time - Negotiating prices and transferring cargo usually takes a lot of time. If you engage in trade at shops the Rebel fleet will catch up with you faster.</text>
-	<text>TIP: Sector Trade Capacity - Some sectors are more suitable for trading then others. Far out places and regions with disrupted economy have less to offer. Stable core regions, on the other hand, sell and buy a lot of goods at good prices.</text>
+	<text>TIP: Trading Time - Negotiating prices and transferring cargo usually takes a lot of time. If you engage in trade at shops the Rebel fleet may catch up with you faster.</text>
+	<text>TIP: Sector Trade Capacity - Some sectors are more suitable for trading than others. Far out places and regions with disrupted economy have less to offer. Stable core regions, on the other hand, sell and buy a lot of goods at good prices.</text>
 	<text>TIP: High Demand - There is always a region of space where even the most ordinary of goods are in high demand. If you know where your freight is really needed you can make very high profits with a single haul.</text>
 	<text>TIP: Quick Selling - You can always sell your trade goods directly to the shop, but only at very bad prices. This way you can quickly get rid of excess cargo.</text>
-	<text>TIP: Piracy - Resorting to piracy will disillusion your crew and might make them desert your cause but can also net you additional scrap and trade goods.</text>
+	<text>TIP: Piracy - Resorting to piracy will disillusion your crew and might make them desert your cause but can also net additional scrap and trade goods.</text>
 	<text>TIP: Pirate Factions - Some aliens are known to prey on defenseless ships on a regular basis. The crew of these factions' ships will not revolt if you engage in piracy.</text>
-	<text>TIP: Slow Reloading Defense Drone - Some defense drones reload slow and cannot take a shot at every incoming missile. They are also ineffective when defending against asteroids.</text>
-	<text>TIP: Fast Reloading Defense Drone - More advanced defense drones fire very fast and should be able to take down multiple incoming projectiles at once.</text>
+	<text>TIP: Slow Reloading Defense Drone - Some defense drones reload slowly and cannot target every incoming missile. They are also ineffective when defending against asteroids.</text>
+	<text>TIP: Fast Reloading Defense Drone - More advanced defense drones fire very quickly and should be able to take down multiple incoming projectiles at once.</text>
 	<text>TIP: Light Drones - These drones are designed to injure enemy crew, but cannot damage the enemy ship's hull. They are especially useful to soften up resistance before your boarders move in.</text>
-	<text>TIP: Ion Drones - These drones are mainly useful for ionizing enemy shields as you can not control where they aim.</text>
+	<text>TIP: Ion Drones - These drones are mainly useful for disabling enemy shields as you can not control where they aim.</text>
 	<text>TIP: Ship Size - The amount of rooms an enemy ship has factors into how effective certain drones are against them. Most drones excel when attacking smaller ships, because they are more likely to hit crew and systems.</text>
 	<text>TIP: Cargo Ships and Freighters - These ships often carry valuable cargo. They possess little firepower and rely on powerful engines and jump drives to avoid confrontations.</text>
 	<text>TIP: Hazard Sectors - The Rebel fleet will struggle to pursue you through these sectors full of ion storms and asteroid fields. Exploring them isn't always advisable. Hazard Sectors have little infrastructure and are full of dangers.</text>
@@ -289,9 +289,9 @@
 	<text>TIP: AI Crew - Holographic crew members are not as tough as organic or partly organic beings, but they can get any job done and don't require oxygen.</text>
 	<text>TIP: Debris Fields - The destruction of bigger ships might create vast debris fields. You can choose to spend more time in order to salvage additional materials, but the Rebel fleet will catch up faster if you do so.</text>
 	<text>TIP: Minefields - Fights in Minefields will cause proximity mines to home in on your ship early in the fight. Jump away before they hit you, or use drones or engine power to counter them.</text>
-	<text>TIP: Planetary Defense Weapons - Advancing into hostile territory might confront you with heavy planetary defense weapons. These guns charge slow; it is best to jump away before they fire.</text>
-	<text>TIP: Planetary Artillery - This defense weapon charges slow but pierces all shields and can cause fires and breaches. UI prompts will inform you about its targeting cycle and can tell you which rooms it will hit.</text>
-	<text>TIP: Planetary Beams - This defense weapon charges slow but will shoot right through your shields and ship, causing breaches. UI prompts will inform you about its targeting cycle and can tell you which rooms it will hit.</text>
+	<text>TIP: Planetary Defense Weapons - Advancing into hostile territory might confront you with heavy planetary defense weapons. These guns charge slowly; jump away before they fire.</text>
+	<text>TIP: Planetary Artillery - This defense weapon charges slowly but pierces all shields and can cause fires and breaches. UI prompts will inform you about its targeting cycle and can tell you which rooms it will hit.</text>
+	<text>TIP: Planetary Beams - This defense weapon charges slowly but will shoot right through your shields and ship, causing breaches. UI prompts will inform you about its targeting cycle and can tell you which rooms it will hit.</text>
 	<text>TIP: Rebel Point Defense System - If the fleet catches up with you the Rebels might consider finishing you off with a long range artillery barrage. Their PDS weapons charge faster than planetary defenses, try to get away in time.</text>
 	<text>TIP: Utility Bombs - Some bombs are designed to be beamed into your own ship, but they can still miss. If you want to make sure that they hit you will have to de-power your engines before firing them.</text>
 	<text>TIP: Sector Names - Sector names contain key words that give away which faction controls them. In time you will get a feel for what sector type to expect.</text>
@@ -300,13 +300,13 @@
 	<text>TIP: AI Controlled Sectors - These sectors are taken over by rogue combat AIs. The all-consuming nano-bot clouds that these AIs command are one of the most hazardous places in the galaxy.</text>
 	<text>TIP: Crew Interaction - An old Federation proverb says: "If you get to a place with nothing else to do, you can always just chat with your crew."</text>
 	<text>TIP: Crew Morale - Maintaining a good relationship with your crew is good for morale. And conversing regularly with your crew might open you all kinds of possibilities.</text>
-	<text>TIP: Crew Background - Most of your crewmen will have been around in the galaxy for some time. Conversing with certain crew in certain sectors might result in interesting reveals.</text>
+	<text>TIP: Crew Background - Most of your crewmen will have been around in the galaxy for some time. Conversing with certain crew in certain sectors might reveal interesting things.</text>
 	<text>TIP: Acid Clouds - These industrial hazards will damage your ship while charging your FTL drive. Time consuming activities like salvaging and the usage of certain augments will result in more damage.</text>
 	<text>TIP: Pollution - These industrial smog clouds will affect your ship's sensors and clog the engines. Pollution hazards can vary in density, more dense clouds will have stronger effects on engines and sensors.</text>
 	<text>TIP: Radiation - Leaking wrecks in space can emit lethal amounts of radiation that will slowly kill your crew. Advanced life support systems can provide protection against this hazard.</text>
 	<text>TIP: Nano-Bot Clouds - Nanite swarms are capable of disassembling your hull and can disrupt all systems. This nebula hazard usually won't affect the enemy ships and should best be avoided entirely.</text>
 	<text>TIP: Black Holes - Jumping near a black hole is actually much less dangerous than it sounds. However, you will need to spend more fuel to escape its gravitational pull.</text>
-	<text>TIP: Anomalies - These rare, unexplainable hazards will jam your sensors, drone communication and weapon targeting.</text>
+	<text>TIP: Anomalies - These rare, unexplainable hazards will jam your sensors, drone communication, and weapon targeting.</text>
 	<text>TIP: Ion Barriers - This curious space phenomena create massive barriers that emit strong ion fields. Your shields will be weakened near them.</text>
 	<text>TIP: Missile Drone Defense - Be aware that your own defense drones can also intercept the slow missiles fired by anti-ship missile drones.</text>
 	<text>TIP: Mine Defense - Defense drones can easily pick off space mines that approach your ship. This is of course especially usefully if you happen to jump into a minefield.</text>
@@ -315,18 +315,18 @@
 	<text>TIP: Ice Fields - Ice fields exist in remote areas far away from active stars. These areas have almost no background radiation to speak of, which makes cloaking devices useless and hiding impossible within them.</text>
 	<text>TIP: Zoltan Diplomacy - Commanding a ship of the wise Zoltan will give you a natural degree of authority. You will be able to negotiate favorable surrender offers and find peaceful resolutions for many conflicts.</text>
 	<text>TIP: Slug "Flexibility" - The Federation is well known to use Slug auxiliaries for their dirty work. Your crew will not expect you to stick to the rules if you command a Slug vessel.</text>
-	<text>TIP: Player Surrender - Remember that you often can try to surrender if you are actively attacked. This might cost you some resources, but can save you life in certain situations.</text>
+	<text>TIP: Player Surrender - Remember that you often can try to surrender if you are actively attacked. This might cost you some resources, but can save your life in certain situations.</text>
 	<text>TIP: Breaking Ceasefire Agreements - Attacking an opponent whose surrender offer has been accepted constitutes a galactic war crime. This might disturb your crew a bit.</text>
 	<text>TIP: Making Surrender Offers - Bigger compensation offers will increase the chance of your surrender being accepted. Most opponents will always accept a great offer.</text>
-	<text>TIP: Trustworthiness of Opponents - Not all your opponents will obey to the general etiquette of space combat. Certain factions might attack you again after you transfered a surrender offer.</text>
+	<text>TIP: Trustworthiness of Opponents - Not all opponents will obey to the general etiquette of space combat. Certain factions might attack you again after you surrender.</text>
 	<text>TIP: Outposts - These military stations are well armed. Prepare for a tough fight when happening upon one.</text>
-	<text>TIP: Checkpoints - Checkpoint stations are often attacked and are therefore equipped with clone bays to protect their staff. They can have various other systems as well.</text>
+	<text>TIP: Checkpoints - Checkpoint stations are often attacked and are therefore equipped with clone bays and other systems to protect their staff.</text>
 	<text>TIP: EW Platforms - Electronic Warfare stations are always equipped with hacking systems. Be prepared to deal with system disruption when engaging them.</text>
 	<text>TIP: Hives and Broodstations - Some factions heavily rely on cloning facilities to swell their ranks. When you find yourself near one of their cloning stations you will have to deal with almost endless waves of boarders.</text>
 	<text>TIP: Surveyors and Instigators - Some ship classes rely on mind control systems to force your crew to sabotage your ship. You will have to somehow deal with your turned crewmen if you encounter them.</text>
 	<text>TIP: Trade Advantage - Trading might seem like a waste of time at first, but keep in mind that it is much less risky than roaming around the sector.</text>
 	<text>TIP: Artillery System - The expensive artillery system you can buy at stores will equip your ship with its signature artillery weapon, often providing a strong boost for your offense.</text>
-	<text>TIP: Faction Artillery - Buy the artillery system to discover the various artillery guns available. Certain ships might receive different kinds of artillery.</text>
+	<text>TIP: Faction Artillery - The Artillery system works differently in different kinds of ships.</text>
 	<text>TIP: Artillery Offense - Some ships have access to devastating artillery, but depend on normal weapons to weaken enemy defenses.</text>
 	<text>TIP: Non-Lethal Artillery - Some artillery weapons deal no damage, but nevertheless provide great advantages in combat, such as ionizing enemy ships or incapacitating crew.</text>
 	<text>TIP: Combat Events - A lot of things can happen in ship-to-ship combat. Don't let your guard down.</text>
@@ -357,24 +357,24 @@
 	<text>TIP: Exotic Ships - Some enemy ships are specialized in unique ways and might be equipped with distinct armaments or equipment. Try to discover their capabilities and weaknesses to deal with them effectively. You can always flee from an encounter if you are not sure what you are dealing with.</text>
 	<text>TIP: Anti-Hull Weapons - Some weapons and drones deal extra damage when fired at empty rooms. While they perform poorly against small ships, they can come in handy against enemies with a lot of hullpoints and empty rooms, like space stations and cruisers.</text>
 	<text>TIP: Capital Ships - Your cruiser is not designed to fight every type of ship. If you feel that your enemy outright outclasses you, then trying to flee might be your best bet.</text>
-	<text>TIP: Rebel Cruisers - When the fleet catches up with you, you might have to fight strong Rebel elite cruisers and the Rebels will also station these ships at exit beacons.</text>
+	<text>TIP: Rebel Cruisers - When the fleet catches up with you, you might have to fight strong Rebel elite cruisers. Rebels will also station these ships at exit beacons.</text>
 	<text>TIP: Fighting Rebel Cruisers - Taking out Rebel cruisers can throw the fleet into disarray and buy you some time, but fleeing from these powerful ships might often be the better option.</text>
 	<text>TIP: Tech Missile Launchers - Some missile weapons can scramble enemy defense systems and will only be shot down by level 2 defense drones.</text>
 	<text>TIP: Trade Routes - Trading is most lucrative between civilian (green) and hostile (red) sectors. Check the sector map and plan your route through the sectors accordingly to increase your profits.</text>
-	<text>TIP: Goods Value - Trade goods come at different scarcities, which range from very basic to rare. This puts them into different price ranges. Buying more expansive goods requires greater investments, but also nets bigger profits with one haul.</text>
+	<text>TIP: Goods Value - Trade goods come at different scarcities, which range from very basic to rare. This puts them into different price ranges. Buying more expensive goods requires greater investments, but also nets bigger profits with one haul.</text>
 	<text>TIP: Cargo Space - Trade goods take up Augmentation slots. Make sure you have enough cargo space when buying commodities. If you realize that your holds are already full then you can still sell the goods at the shop again, but you will loose some scrap this way.</text>
 	<text>TIP: Selling Goods - When you sell your cargo at shops, you will first negotiate a price and get an advance payment. Then you have to sell the goods at the shop to receive the rest of your scrap. [Not doing this means you are cheating.]</text>
 	<text>TIP: Supply and Demand - Trade goods are never bought at good prices in the sectors where they are for sale. You can still sell the commodities at the shop to free up cargo space and make quick scrap, but delivering them to other sectors makes better money.</text>
-	<text>TIP: Trading Time - Negotiating prices and transferring cargo usually takes a lot of time. If you engage in trade at shops the Rebel fleet will catch up with you faster.</text>
-	<text>TIP: Sector Trade Capacity - Some sectors are more suitable for trading then others. Far out places and regions with disrupted economy have less to offer. Stable core regions, on the other hand, sell and buy a lot of goods at good prices.</text>
+	<text>TIP: Trading Time - Negotiating prices and transferring cargo usually takes a lot of time. If you engage in trade at shops the Rebel fleet may catch up with you faster.</text>
+	<text>TIP: Sector Trade Capacity - Some sectors are more suitable for trading than others. Far out places and regions with disrupted economy have less to offer. Stable core regions, on the other hand, sell and buy a lot of goods at good prices.</text>
 	<text>TIP: High Demand - There is always a region of space where even the most ordinary of goods are in high demand. If you know where your freight is really needed you can make very high profits with a single haul.</text>
 	<text>TIP: Quick Selling - You can always sell your trade goods directly to the shop, but only at very bad prices. This way you can quickly get rid of excess cargo.</text>
-	<text>TIP: Piracy - Resorting to piracy will disillusion your crew and might make them desert your cause but can also net you additional scrap and trade goods.</text>
+	<text>TIP: Piracy - Resorting to piracy will disillusion your crew and might make them desert your cause but can also net additional scrap and trade goods..</text>
 	<text>TIP: Pirate Factions - Some aliens are known to prey on defenseless ships on a regular basis. The crew of these factions' ships will not revolt if you engage in piracy.</text>
-	<text>TIP: Slow Reloading Defense Drone - Some defense drones reload slow and cannot take a shot at every incoming missile. They are also ineffective when defending against asteroids.</text>
-	<text>TIP: Fast Reloading Defense Drone - More advanced defense drones fire very fast and should be able to take down multiple incoming projectiles at once.</text>
+	<text>TIP: Slow Reloading Defense Drone - Some defense drones reload slowly and cannot target every incoming missile. They are also ineffective when defending against asteroids.</text>
+	<text>TIP: Fast Reloading Defense Drone - More advanced defense drones fire very quickly and should be able to take down multiple incoming projectiles at once.</text>
 	<text>TIP: Light Drones - These drones are designed to injure enemy crew, but cannot damage the enemy ship's hull. They are especially useful to soften up resistance before your boarders move in.</text>
-	<text>TIP: Ion Drones - These drones are mainly useful for ionizing enemy shields as you can not control where they aim.</text>
+	<text>TIP: Ion Drones - These drones are mainly useful for disabling enemy shields as you can not control where they aim.</text>
 	<text>TIP: Ship Size - The amount of rooms an enemy ship has factors into how effective certain drones are against them. Most drones excel when attacking smaller ships, because they are more likely to hit crew and systems.</text>
 	<text>TIP: Cargo Ships and Freighters - These ship often carry valuable cargo. They posses little firepower and rely on powerful engines and jump drives to ovoid confrontations.</text>
 	<text>TIP: Hazard Sectors - The Rebel fleet will struggle to pursue you through these sectors full of ion storms and asteroid fields. Exploring them isn't always advisable. Hazard Sectors have little infrastructure and are full of dangers.</text>
@@ -389,9 +389,9 @@
 	<text>TIP: AI Crew - Holographic crew members are not as tough as organic or partly organic beings, but they can get any job done and don't require oxygen.</text>
 	<text>TIP: Debris Fields - The destruction of bigger ships might create vast debris fields. You can choose to spend more time in order to salvage additional materials, but the Rebel fleet will catch up faster if you do so.</text>
 	<text>TIP: Minefields - Fights in Minefields will cause proximity mines to home in on your ship early in the fight. Jump away before they hit you, or use drones or engine power to counter them.</text>
-	<text>TIP: Planetary Defense Weapons - Advancing into hostile territory might confront you with heavy planetary defense weapons. These guns charge slow; it is best to jump away before they fire.</text>
-	<text>TIP: Planetary Artillery - This defense weapon charges slow but pierces all shields and can cause fires and breaches. UI prompts will inform you about its targeting cycle and can tell you which rooms it will hit.</text>
-	<text>TIP: Planetary Beams - This defense weapon charges slow but will shoot right through your shields and ship, causing breaches. UI prompts will inform you about its targeting cycle and can tell you which rooms it will hit.</text>
+	<text>TIP: Planetary Defense Weapons - Advancing into hostile territory might confront you with heavy planetary defense weapons. These guns charge slowly; jump away before they fire.</text>
+	<text>TIP: Planetary Artillery - This defense weapon charges slowly but pierces all shields and can cause fires and breaches. UI prompts will inform you about its targeting cycle and can tell you which rooms it will hit.</text>
+	<text>TIP: Planetary Beams - This defense weapon charges slowly but will shoot right through your shields and ship, causing breaches. UI prompts will inform you about its targeting cycle and can tell you which rooms it will hit.</text>
 	<text>TIP: Rebel Point Defense System - If the fleet catches up with you the Rebels might consider finishing you off with a long range artillery barrage. Their PDS weapons charge faster than planetary defenses, try to get away in time.</text>
 	<text>TIP: Utility Bombs - Some bombs are designed to be beamed into your own ship, but they can still miss. If you want to make sure that they hit you will have to de-power your engines before firing them.</text>
 	<text>TIP: Sector Names - Sector names contain key words that give away which faction controls them. In time you will get a feel for what sector type to expect.</text>
@@ -400,13 +400,13 @@
 	<text>TIP: AI Controlled Sectors - These sectors are taken over by rogue combat AIs. The all-consuming nano-bot clouds that these AIs command are one of the most hazardous places in the galaxy.</text>
 	<text>TIP: Crew Interaction - An old Federation proverb says: "If you get to a place with nothing else to do, you can always just chat with your crew."</text>
 	<text>TIP: Crew Morale - Maintaining a good relationship with your crew is good for morale. And conversing regularly with your crew might open you all kinds of possibilities.</text>
-	<text>TIP: Crew Background - Most of your crewmen will have been around in the galaxy for some time. Conversing with certain crew in certain sectors might result in interesting reveals.</text>
+	<text>TIP: Crew Background - Most of your crewmen will have been around in the galaxy for some time. Conversing with certain crew in certain sectors might reveal interesting things.</text>
 	<text>TIP: Acid Clouds - These industrial hazards will damage your ship while charging your FTL drive. Time consuming activities like salvaging and the usage of certain augments will result in more damage.</text>
 	<text>TIP: Pollution - These industrial smog clouds will affect your ship's sensors and clog the engines. Pollution hazards can vary in density, more dense clouds will have stronger effects on engines and sensors.</text>
 	<text>TIP: Radiation - Leaking wrecks in space can emit lethal amounts of radiation that will slowly kill your crew. Advanced life support systems can provide protection against this hazard.</text>
 	<text>TIP: Nano-Bot Clouds - Nanite swarms are capable of disassembling your hull and can disrupt all systems. This nebula hazard usually won't affect the enemy ships and should best be avoided entirely.</text>
 	<text>TIP: Black Holes - Jumping near a black hole is actually much less dangerous than it sounds. However, you will need to spend more fuel to escape its gravitational pull.</text>
-	<text>TIP: Anomalies - These rare, unexplainable hazards will jam your sensors, drone communication and weapon targeting.</text>
+	<text>TIP: Anomalies - These rare, unexplainable hazards will jam your sensors, drone communication, and weapon targeting.</text>
 	<text>TIP: Ion Barriers - This curious space phenomena create massive barriers that emit strong ion fields. Your shields will be weakened near them.</text>
 	<text>TIP: Missile Drone Defense - Be aware that your own defense drones can also intercept the slow moving missiles fired by enemy anti-ship missile drones.</text>
 	<text>TIP: Mine Defense - Defense drones can easily pick off space mines that approach your ship. This is of course especially usefully if you happen to jump into a minefield.</text>
@@ -415,18 +415,18 @@
 	<text>TIP: Ice Fields - Ice fields exist in remote areas far away from active stars. These areas have almost no background radiation to speak of, which makes cloaking devices useless and hiding impossible within them.</text>
 	<text>TIP: Zoltan Diplomacy - Commanding a ship of the wise Zoltan will give you a natural degree of authority. You will be able to negotiate favorable surrender offers and find peaceful resolutions for many conflicts.</text>
 	<text>TIP: Slug "Flexibility" - The Federation is well know to use Slug auxiliaries for their dirty work. Your crew will not expect you to stick to the rules if you command a Slug vessel.</text>
-	<text>TIP: Player Surrender - Remember that you often can try to surrender if you are actively attacked. This might cost you some resources, but can save you life in certain situations.</text>
+	<text>TIP: Player Surrender - Remember that you often can try to surrender if you are actively attacked. This might cost you some resources, but can save your life in certain situations.</text>
 	<text>TIP: Breaking Ceasefire Agreements - Attacking an opponent whose surrender offer has been accepted constitutes a galactic war crime. This might disturb your crew a bit.</text>
 	<text>TIP: Making Surrender Offers - Bigger compensation offers will increase the chance of your surrender being accepted. Most opponents will always accept a great offer.</text>
-	<text>TIP: Trustworthiness of Opponents - Not all your opponents will obey to the general etiquette of space combat. Certain factions might attack you again after you transfered a surrender offer.</text>
+	<text>TIP: Trustworthiness of Opponents - Not all opponents will obey to the general etiquette of space combat. Certain factions might attack you again after you surrender.</text>
 	<text>TIP: Outposts - This military stations are well armed. Prepare for a tough fight when happening upon one.</text>
-	<text>TIP: Checkpoints - Checkpoint stations are often attacked and are therefore equipped with clone bays to protect their staff. They can have various other systems as well.</text>
+	<text>TIP: Checkpoints - Checkpoint stations are often attacked and are therefore equipped with clone bays and other systems to protect their staff.</text>
 	<text>TIP: EW Platforms - Electronic Warfare stations are always equipped with hacking systems. Be prepared to deal with system disruption when engaging them.</text>
 	<text>TIP: Hives and Broodstations - Some factions heavily rely on cloning facilities to swell their ranks. When you find yourself near one of their cloning stations you will have to deal with almost endless waves of boarders.</text>
 	<text>TIP: Surveyors and Instigators - Some ship classes rely on mind control systems to force your crew to sabotage your ship. You will have to somehow deal with your turned crewmen if you encounter them.</text>
 	<text>TIP: Trade Advantage - Trading might seem like a waste of time at first, but keep in mind that it is much less risky than roaming around the sector.</text>
 	<text>TIP: Artillery System - The expensive artillery system you can buy at stores will equip your ship with its signature artillery weapon, often providing a strong boost for your offense.</text>
-	<text>TIP: Faction Artillery - Buy the artillery system to discover the various artillery guns available. Certain ships might receive different kinds of artillery.</text>
+	<text>TIP: Faction Artillery - The Artillery system works differently in different kinds of ships.</text>
 	<text>TIP: Artillery Offense - Some ships have access to devastating artillery, but depend on normal weapons to weaken enemy defenses.</text>
 	<text>TIP: Non-Lethal Artillery - Some artillery weapons deal no damage, but never the less provide great advantages in combat. For example by ionizing enemy ships or incapacitating crew.</text>
 	<text>TIP: Combat Events - A lot of things can happen in ship-to-ship combat. Don't let your guard down.</text>
@@ -457,7 +457,7 @@
 	<text>TIP: Exotic Ships - Some enemy ships are specialized in unique ways and might be equipped with distinct armaments or equipment. Try to discover their capabilities and weaknesses to deal with them effectively. You can always flee from an encounter if you are not sure what you are dealing with.</text>
 	<text>TIP: Anti-Hull Weapons - Some weapons and drones deal extra damage when fired at empty rooms. While they perform poorly against small ships, they can come in handy against enemies with a lot of hullpoints and empty rooms, like space stations and cruisers.</text>
 	<text>TIP: Capital Ships - Your cruiser is not designed to fight every type of ship. If you feel that your enemy outright outclasses you, then trying to flee might be your best bet.</text>
-	<text>TIP: Rebel Cruisers - When the fleet catches up with you, you might have to fight strong Rebel elite cruisers and the Rebels will also station these ships at exit beacons.</text>
+	<text>TIP: Rebel Cruisers - When the fleet catches up with you, you might have to fight strong Rebel elite cruisers. Rebels will also station these ships at exit beacons.</text>
 	<text>TIP: Fighting Rebel Cruisers - Taking out Rebel cruisers can throw the fleet into disarray and buy you some time, but fleeing from these powerful ships might often be the better option.</text>
 	<text>TIP: Tech Missile Launchers - Some missile weapons can scramble enemy defense systems and will only be shot down by level 2 defense drones.</text>
 	<text>TIP: Trade Routes - Trading is most lucrative between civilian (green) and hostile (red) sectors. Check the sector map and plan your route through the sectors accordingly to increase your profits.</text>
@@ -465,16 +465,16 @@
 	<text>TIP: Cargo Space - Trade goods take up Augmentation slots. Make sure you have enough cargo space when buying commodities. If you realize that your holds are already full then you can still sell the goods at the shop again, but you will lose some scrap this way.</text>
 	<text>TIP: Selling Goods - When you sell your cargo at shops, you will first negotiate a price and get an advance payment. Then you have to sell the goods at the shop to receive the rest of your scrap. [Not doing this means you are cheating.]</text>
 	<text>TIP: Supply and Demand - Trade goods are never bought at good prices in the sectors where they are for sale. You can still sell the commodities at the shop to free up cargo space and make quick scrap, but delivering them to other sectors makes better money.</text>
-	<text>TIP: Trading Time - Negotiating prices and transferring cargo usually takes a lot of time. If you engage in trade at shops the Rebel fleet will catch up with you faster.</text>
-	<text>TIP: Sector Trade Capacity - Some sectors are more suitable for trading then others. Far out places and regions with disrupted economy have less to offer. Stable core regions, on the other hand, sell and buy a lot of goods at good prices.</text>
+	<text>TIP: Trading Time - Negotiating prices and transferring cargo usually takes a lot of time. If you engage in trade at shops the Rebel fleet may catch up with you faster.</text>
+	<text>TIP: Sector Trade Capacity - Some sectors are more suitable for trading than others. Far out places and regions with disrupted economy have less to offer. Stable core regions, on the other hand, sell and buy a lot of goods at good prices.</text>
 	<text>TIP: High Demand - There is always a region of space where even the most ordinary of goods are in high demand. If you know where your freight is really needed you can make very high profits with a single haul.</text>
 	<text>TIP: Quick Selling - You can always sell your trade goods directly to the shop, but only at very bad prices. This way you can quickly get rid of excess cargo.</text>
-	<text>TIP: Piracy - Resorting to piracy will disillusion your crew and might make them desert your cause but can also net you additional scrap and trade goods.</text>
+	<text>TIP: Piracy - Resorting to piracy will disillusion your crew and might make them desert your cause but can also net additional scrap and trade goods..</text>
 	<text>TIP: Pirate Factions - Some aliens are known to prey on defenseless ships on a regular basis. The crew of these factions' ships will not revolt if you engage in piracy.</text>
-	<text>TIP: Slow Reloading Defense Drone - Some defense drones reload slow and cannot take a shot at every incoming missile. They are also ineffective when defending against asteroids.</text>
-	<text>TIP: Fast Reloading Defense Drone - More advanced defense drones fire very fast and should be able to take down multiple incoming projectiles at once.</text>
+	<text>TIP: Slow Reloading Defense Drone - Some defense drones reload slowly and cannot target every incoming missile. They are also ineffective when defending against asteroids.</text>
+	<text>TIP: Fast Reloading Defense Drone - More advanced defense drones fire very quickly and should be able to take down multiple incoming projectiles at once.</text>
 	<text>TIP: Light Drones - These drones are designed to injure enemy crew, but cannot damage the enemy ship's hull. They are especially useful to soften up resistance before your boarders move in.</text>
-	<text>TIP: Ion Drones - These drones are mainly useful for ionizing enemy shields as you can not control where they aim.</text>
+	<text>TIP: Ion Drones - These drones are mainly useful for disabling enemy shields as you can not control where they aim.</text>
 	<text>TIP: Ship Size - The amount of rooms an enemy ship has factors into how effective certain drones are against them. Most drones excel when attacking smaller ships, because they are more likely to hit crew and systems.</text>
 	<text>TIP: Cargo Ships and Freighters - These ship often carry valuable cargo. They posses little firepower and rely on powerful engines and jump drives to ovoid confrontations.</text>
 	<text>TIP: Hazard Sectors - The Rebel fleet will struggle to pursue you through these sectors full of ion storms and asteroid fields. Exploring them isn't always advisable. Hazard Sectors have little infrastructure and are full of dangers.</text>
@@ -489,9 +489,9 @@
 	<text>TIP: AI Crew - Holographic crew members are not as tough as organic or partly organic beings, but they can get any job done and don't require oxygen.</text>
 	<text>TIP: Debris Fields - The destruction of bigger ships might create vast debris fields. You can choose to spend more time in order to salvage additional materials, but the Rebel fleet will catch up faster if you do so.</text>
 	<text>TIP: Minefields - Fights in Minefields will cause proximity mines to home in on your ship early in the fight. Jump away before they hit you, or use drones or engine power to counter them.</text>
-	<text>TIP: Planetary Defense Weapons - Advancing into hostile territory might confront you with heavy planetary defense weapons. These guns charge slow; it is best to jump away before they fire.</text>
-	<text>TIP: Planetary Artillery - This defense weapon charges slow but pierces all shields and can cause fires and breaches. UI prompts will inform you about its targeting cycle and can tell you which rooms it will hit.</text>
-	<text>TIP: Planetary Beams - This defense weapon charges slow but will shoot right through your shields and ship, causing breaches. UI prompts will inform you about its targeting cycle and can tell you which rooms it will hit.</text>
+	<text>TIP: Planetary Defense Weapons - Advancing into hostile territory might confront you with heavy planetary defense weapons. These guns charge slowly; jump away before they fire.</text>
+	<text>TIP: Planetary Artillery - This defense weapon charges slowly but pierces all shields and can cause fires and breaches. UI prompts will inform you about its targeting cycle and can tell you which rooms it will hit.</text>
+	<text>TIP: Planetary Beams - This defense weapon charges slowly but will shoot right through your shields and ship, causing breaches. UI prompts will inform you about its targeting cycle and can tell you which rooms it will hit.</text>
 	<text>TIP: Rebel Point Defense System - If the fleet catches up with you the Rebels might consider finishing you off with a long range artillery barrage. Their PDS weapons charge faster than planetary defenses, try to get away in time.</text>
 	<text>TIP: Utility Bombs - Some bombs are designed to be beamed into your own ship, but they can still miss. If you want to make sure that they hit you will have to de-power your engines before firing them.</text>
 	<text>TIP: Sector Names - Sector names contain key words that give away which faction controls them. In time you will get a feel for what sector type to expect.</text>
@@ -500,13 +500,13 @@
 	<text>TIP: AI Controlled Sectors - These sectors are taken over by rogue combat AIs. The all-consuming nano-bot clouds that these AIs command are one of the most hazardous places in the galaxy.</text>
 	<text>TIP: Crew Interaction - An old Federation proverb says: "If you get to a place with nothing else to do, you can always just chat with your crew."</text>
 	<text>TIP: Crew Morale - Maintaining a good relationship with your crew is good for morale. And conversing regularly with your crew might open you all kinds of possibilities.</text>
-	<text>TIP: Crew Background - Most of your crewmen will have been around in the galaxy for some time. Conversing with certain crew in certain sectors might result in interesting reveals.</text>
+	<text>TIP: Crew Background - Most of your crewmen will have been around in the galaxy for some time. Conversing with certain crew in certain sectors might reveal interesting things.</text>
 	<text>TIP: Acid Clouds - These industrial hazards will damage your ship while charging your FTL drive. Time consuming activities like salvaging and the usage of certain augments will result in more damage.</text>
 	<text>TIP: Pollution - These industrial smog clouds will affect your ship's sensors and clog the engines. Pollution hazards can vary in density, more dense clouds will have stronger effects on engines and sensors.</text>
 	<text>TIP: Radiation - Leaking wrecks in space can emit lethal amounts of radiation that will slowly kill your crew. Advanced life support systems can provide protection against this hazard.</text>
 	<text>TIP: Nano-Bot Clouds - Nanite swarms are capable of disassembling your hull and can disrupt all systems. This nebula hazard usually won't affect the enemy ships and should best be avoided entirely.</text>
 	<text>TIP: Black Holes - Jumping near a black hole is actually much less dangerous than it sounds. However, you will need to spend more fuel to escape its gravitational pull.</text>
-	<text>TIP: Anomalies - These rare, unexplainable hazards will jam your sensors, drone communication and weapon targeting.</text>
+	<text>TIP: Anomalies - These rare, unexplainable hazards will jam your sensors, drone communication, and weapon targeting.</text>
 	<text>TIP: Ion Barriers - This curious space phenomena create massive barriers that emit strong ion fields. Your shields will be weakened near them.</text>
 	<text>TIP: Missile Drone Defense - Be aware that your own defense drones can also intercept the slow missiles fired by anti-ship missile drones.</text>
 	<text>TIP: Mine Defense - Defense drones can easily pick off space mines that approach your ship. This is of course especially usefully if you happen to jump into a minefield.</text>
@@ -515,18 +515,18 @@
 	<text>TIP: Ice Fields - Ice fields exist in remote areas far away from active stars. These areas have almost no background radiation to speak of, which makes cloaking devices useless and hiding impossible within them.</text>
 	<text>TIP: Zoltan Diplomacy - Commanding a ship of the wise Zoltan will give you a natural degree of authority. You will be able to negotiate favorable surrender offers and find peaceful resolutions for many conflicts.</text>
 	<text>TIP: Slug "Flexibility" - The Federation is well know to use Slug auxiliaries for their dirty work. Your crew will not expect you to stick to the rules if you command a Slug vessel.</text>
-	<text>TIP: Player Surrender - Remember that you often can try to surrender if you are actively attacked. This might cost you some resources, but can save you life in certain situations.</text>
+	<text>TIP: Player Surrender - Remember that you often can try to surrender if you are actively attacked. This might cost you some resources, but can save your life in certain situations.</text>
 	<text>TIP: Breaking Ceasefire Agreements - Attacking an opponent whose surrender offer has been accepted constitutes a galactic war crime. This might disturb your crew a bit.</text>
 	<text>TIP: Making Surrender Offers - Bigger compensation offers will increase the chance of your surrender being accepted. Most opponents will always accept a great offer.</text>
-	<text>TIP: Trustworthiness of Opponents - Not all your opponents will obey to the general etiquette of space combat. Certain factions might attack you again after you transfered a surrender offer.</text>
+	<text>TIP: Trustworthiness of Opponents - Not all opponents will obey to the general etiquette of space combat. Certain factions might attack you again after you surrender.</text>
 	<text>TIP: Outposts - This military stations are well armed. Prepare for a tough fight when happening upon one.</text>
-	<text>TIP: Checkpoints - Checkpoint stations are often attacked and are therefore equipped with clone bays to protect their staff. They can have various other systems as well.</text>
+	<text>TIP: Checkpoints - Checkpoint stations are often attacked and are therefore equipped with clone bays and other systems to protect their staff.</text>
 	<text>TIP: EW Platforms - Electronic Warfare stations are always equipped with hacking systems. Be prepared to deal with system disruption when engaging them.</text>
 	<text>TIP: Hives and Broodstations - Some factions heavily rely on cloning facilities to swell their ranks. When you find yourself near one of their cloning stations you will have to deal with almost endless waves of boarders.</text>
 	<text>TIP: Surveyors and Instigators - Some ship classes rely on mind control systems to force your crew to sabotage your ship. You will have to somehow deal with your turned crewmen if you encounter them.</text>
 	<text>TIP: Trade Advantage - Trading might seem like a waste of time at first, but keep in mind that buying and selling is much less risky than roaming around the sector.</text>
 	<text>TIP: Artillery System - The expensive artillery system you can buy at stores will equip your ship with its signature artillery weapon, often providing a strong boost for your offense.</text>
-	<text>TIP: Faction Artillery - Buy the artillery system to discover the various artillery guns available. Certain ships might receive different kinds of artillery.</text>
+	<text>TIP: Faction Artillery - The Artillery system works differently in different kinds of ships.</text>
 	<text>TIP: Artillery Offense - Some ships have access to devastating artillery, but depend on normal weapons to weaken enemy defenses.</text>
 	<text>TIP: Non-Lethal Artillery - Some artillery weapons deal no damage, but never the less provide great advantages in combat. For example by ionizing enemy ships or incapacitating crew.</text>
 	<text>TIP: Combat Events - A lot of things can happen in ship-to-ship combat. Don't let your guard down.</text>
@@ -605,7 +605,7 @@
 		</choice>
 	</event>
 	<event>
-		<text>As you hail the refugee ship, a Zoltan ship suddenly jumps into the system... it claims the refugees are criminals, and accuses you of escorting fugitives! Before you can respond, it cuts communications, and powers up its weapons!</text>
+		<text>As you hail the refugee ship, a Zoltan ship suddenly jumps into the system... it claims the refugees are criminals, and accuses you of escorting fugitives! Before you can respond, it cuts communications and powers up its weapons!</text>
 		<ship load="ZOLTAN_REFUGEE" hostile="true"/>
 		<choice hidden="true">
 			<text>Continue...</text>
@@ -919,7 +919,7 @@
 		</choice>
 	</event>
 	<event>
-		<text>As you hail the refugee ship, a Zoltan ship suddenly jumps into the system... it claims the refugees are criminals, and accuses you of escorting fugitives! Before you can respond, it cuts communications, and powers up its weapons!</text>
+		<text>As you hail the refugee ship, a Zoltan ship suddenly jumps into the system... it claims the refugees are criminals, and accuses you of escorting fugitives! Before you can respond, it cuts communications and powers up its weapons!</text>
 		<ship load="ZOLTAN_REFUGEE" hostile="true"/>
 		<choice hidden="true">
 			<text>Continue...</text>
@@ -1083,7 +1083,7 @@
 
 <eventList name="REFUGEE_HAIL_LIST_ZOLTAN">
 	<event>
-		<text>As you hail the refugee ship, a Zoltan ship suddenly jumps into the system... it claims the refugees are criminals, and accuses you of escorting fugitives! Before you can respond, it cuts communications, and powers up its weapons!</text>
+		<text>As you hail the refugee ship, a Zoltan ship suddenly jumps into the system... it claims the refugees are criminals, and accuses you of escorting fugitives! Before you can respond, it cuts communications and powers up its weapons!</text>
 		<ship load="ZOLTAN_REFUGEE" hostile="true"/>
 		<choice hidden="true">
 			<text>Continue...</text>
@@ -1542,7 +1542,7 @@
 		</choice>
 	</event>
 	<event>
-		<text>The refueling station welcomes you into one of its berths, and as you hail them, there is an explosion from your engine room! While assessing the damage, you detect a Pirate Ship closing fast!</text>
+		<text>The refueling station welcomes you into one of its berths. As you hail them, there is an explosion from your engine room! While assessing the damage, you detect a Pirate Ship closing fast!</text>
 		<ship load="PIRATE" hostile="true"/>
 		<damage amount="3" system="engines"/>
 		<choice hidden="true">
@@ -1688,7 +1688,7 @@
 		<choice hidden="true">
 			<text>Give them 1 fuel.</text>
 			<event>
-				<text>"Well, I suppose that's better than nothing. Than you. Hopefully we can find a station at the next Beacon."</text>
+				<text>"Well, I suppose that's better than nothing. Thank you. Hopefully we can find a station at the next Beacon."</text>
 				<item_modify>
 					<item type="fuel" min="-1" max="-1"/>
 				</item_modify>
@@ -2023,7 +2023,7 @@
 	<choice>
 		<text>Buy nothing.</text>
 		<event>
-			<text>"Ah, I'm sorry to hear that! Pleasant journeys." Once back to the helm, a series of explosions rocks your ship. The pirate ship has powered its weapons! You receive a message, "You shouldn't waste people's time Captain!"</text>
+			<text>"Ah, I'm sorry to hear that! Pleasant journeys." Once back to the helm, a series of explosions rocks your ship. The pirate ship has powered its weapons! You receive a message, "You shouldn't waste people's time, Captain!"</text>
 			<ship load="PIRATE" hostile="true"/>
 			<damage amount="1" system="engines" effect="random"/>
 			<damage amount="1" system="room" effect="random"/>
@@ -2545,7 +2545,7 @@
 		<choice hidden="true">
 			<text>Keep the supplies.</text>
 			<event>
-				<text>Any Rebel possessions are declared free prices. You fought hard for these goods and they might sell for a good profit. The scrap will be used for the good of the mission.</text>
+				<text>Any Rebel possessions are fair game. You fought hard for these goods and they might sell for a good profit. The scrap will be used for the good of the mission.</text>
 				<augment name="TE_GOODS_SEEDS"/>
 			</event>
 		</choice>
@@ -2559,7 +2559,7 @@
 		<choice hidden="true">
 			<text>Keep the supplies.</text>
 			<event>
-				<text>Any Rebel possessions are declared free prices. You fought hard for these goods and they might sell for a good profit. The scrap will be used for the good of the mission.</text>
+				<text>Any Rebel possessions are fair game. You fought hard for these goods and they might sell for a good profit. The scrap will be used for the good of the mission.</text>
 				<augment name="TE_GOODS_TEXTILES"/>
 			</event>
 		</choice>
@@ -2574,7 +2574,7 @@
 		<choice hidden="true">
 			<text>Keep the supplies.</text>
 			<event>
-				<text>Any Rebel possessions are declared free prices. You fought hard for these goods and they might sell for a good profit. The scrap will be used for the good of the mission.</text>
+				<text>Any Rebel possessions are fair game. You fought hard for these goods and they might sell for a good profit. The scrap will be used for the good of the mission.</text>
 				<augment name="TE_GOODS_ORGANISMS"/>
 			</event>
 		</choice>
@@ -2588,7 +2588,7 @@
 		<choice hidden="true">
 			<text>Keep the supplies.</text>
 			<event>
-				<text>Any Rebel possessions are declared free prices. You fought hard for these goods and they might sell for a good profit. The scrap will be used for the good of the mission.</text>
+				<text>Any Rebel possessions are fair game. You fought hard for these goods and they might sell for a good profit. The scrap will be used for the good of the mission.</text>
 				<item_modify>
 					<item type="drones" min="1" max="3"/>
 				</item_modify>
@@ -2605,7 +2605,7 @@
 		<choice hidden="true">
 			<text>Keep the supplies.</text>
 			<event>
-				<text>Any Rebel possessions are declared free prices. You fought hard for these goods and they might sell for a good profit. The scrap will be used for the good of the mission.</text>
+				<text>Any Rebel possessions are fair game. You fought hard for these goods and they might sell for a good profit. The scrap will be used for the good of the mission.</text>
 				<augment name="TE_GOODS_ENGI_MEDICINE"/>
 			</event>
 		</choice>
@@ -2619,7 +2619,7 @@
 		<choice hidden="true">
 			<text>Keep the supplies.</text>
 			<event>
-				<text>Any Rebel possessions are declared free prices. You fought hard for these goods and they might sell for a good profit. The scrap will be used for the good of the mission.</text>
+				<text>Any Rebel possessions are fair game. You fought hard for these goods and they might sell for a good profit. The scrap will be used for the good of the mission.</text>
 				<item_modify>
 					<item type="scrap" min="5" max="15"/>
 				</item_modify>
