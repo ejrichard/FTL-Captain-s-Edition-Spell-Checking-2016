@@ -1904,7 +1904,7 @@
 		</choice>
 	</event>
 	<event>
-		<text>Once "convinced" to help, he casually states how his offer was actually a lie and that they planned to attack your ship. By the time he returns to his senses you'v already prepared the ship for the fight.</text>
+		<text>Once "convinced" to help, he casually states how his offer was actually a lie and that they planned to attack your ship. By the time he returns to his senses you've already prepared the ship for the fight.</text>
 		<ship hostile="true"/>
 		<choice hidden="true">
 			<text>Continue...</text>
